@@ -1,0 +1,35 @@
+
+.container{
+  
+}
+.ul li{
+    margin: 20px;
+}
+.ul li a{
+    margin: 0px 20px 0px 20px;
+}
+.banner10{
+    background-image: url(imge/img/banner10.jpg);
+    width: 100%;
+    height: 100vh;
+    background-position: center;
+}
+.banner11{
+    background-image: url(imge/img/banner11.jpg);
+    width: 100%;
+    height: 100vh;
+    background-position: center;
+}
+.text{
+    text-align: center;
+    position: absolute;
+    margin: 40px;
+    color: red;
+    font-size: 50px;
+}
+.title h1{
+    text-align: center;
+}
+.line{
+    border-bottom: 2px solid red;
+}
